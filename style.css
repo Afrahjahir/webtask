@@ -1,0 +1,480 @@
+
+header ul{
+    list-style: none;
+    margin: 0px;
+    display: flex;
+    
+}
+header ul li{
+    list-style: none;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -60px;
+
+}
+header ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin-left: 50px;
+
+}
+.home img{
+     margin-top: -10px;
+     width: 100%;
+}
+
+
+#pa{
+    background-color: rgb(196, 133, 56);
+    border: 1px solid bisque;
+    color: black;
+    margin-top: -150px;
+    z-index: 9990;
+    position: absolute;
+    font-size: 25px;
+}
+#pa1{
+    background-color: brown;
+     color:black;
+     border: 1px solid bisque;
+     position: absolute;
+     font-size: 30px;
+     margin-top:-100px;
+}
+form{
+    margin-top:50px;
+    margin-left: 950px;
+}
+#pa3{
+    margin-left: 20px;
+    margin-top: 130px;
+}
+#pa4{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+#pa5{
+     margin-left: 200px;
+     font-size: 30px;
+     margin-top: -220px;
+     width: 800px;
+}
+.form2{
+    margin-top: -20px;
+    margin-left: 200px;
+    width:200px;
+}
+#pa6{
+    margin-left: 200px;
+    margin-top: -70px;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+}
+#pa7{
+    color: rgb(16, 132, 171);
+    width: 200px;
+    margin-left: 200px;
+}
+#pa8{
+    width: 200px;
+    margin-left: 200px;
+}
+#pa9{
+    float: left;
+    margin-left: 550px;
+    margin-top: -450px;
+    display: flex;
+    width: 200px;
+    height: 201px;
+    border: 1px solid grey;
+}
+#pa10{
+     width: 200px;
+     margin-left:550px;
+     color: rgb(16, 132, 171);
+     margin-top: -230px;
+}
+#pa11{
+    width: 200px;
+    margin-left:550px;
+}
+#pa12{
+    margin-left: 900px;
+    margin-top: -450px;
+    border:1px solid gray;
+    width: 200px;
+    height: 200px;
+}   
+#pa13{
+    width: 200px;
+    color: rgb(16, 132, 171);
+    margin-left: 910px;
+}
+#pa14{
+    width: 200px;
+    margin-left: 910px;
+}
+.logo{
+    
+}
+footer{
+    height: 300px;
+    width: 400px;
+}
+footer .company{
+    color: gray;
+    margin-left: 80px;
+}
+footer .follow{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+footer .mail{
+    margin-left: -20px;
+    margin-top: -30px;
+    width: 200px;
+}
+
+@media screen and (max-width:769px) {
+header{
+    width: 20%;
+    height: 300px;
+}
+
+header ul{
+    list-style: none;
+    display:block;
+    width: 300px;
+    margin-left: 0px;
+}
+header ul li{
+    display: block;
+    margin-top: 20px;
+    margin-left: -70px;
+    font-size:15px;
+    width: 50%;
+    
+}
+#section1{
+    margin-top: -200px;
+    width: 400;
+}
+.home{
+    width: 50%;
+    height: 50%;
+}
+.home img{
+    margin-left: 100px;
+    margin-top: -80px;
+    width: 600px;
+}
+.logo{
+    width: 50%;
+}
+#pa{
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+#pa1{
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+#pa3{
+    font-size: 15px;
+    margin-top: -40px;
+    
+}
+#pa4{
+    font-size: 15px;
+} 
+#pa5{
+    font-size: 20px;
+    margin-left: 200px;
+    width: 200px;
+    margin-top: -50px;
+}
+form{
+    margin-left: 400px;
+}
+#section2{
+margin-top: 150px;
+}
+#pa6{
+    margin-left: 30px;
+    width: 150px;
+    height: 150px;
+}
+#pa7{
+    margin-left: 30px;
+    font-size: 15px;
+    width: 80px;
+}
+#pa8{
+    margin-left: 30px;
+    font-size: 15px;
+    width: 80px;
+}
+#pa9{
+    margin-left:250px;
+    margin-top:-705px;
+    width: 150px;
+    height: 150px;
+}
+#pa10{
+    font-size: 15px;
+    width: 100px;
+    margin-left: 260px;
+    margin-top: -530px;
+}
+#pa11{
+    margin-left: 260px;
+    width: 80px;
+}
+#pa12{
+    margin-left: 500px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top:-700px;
+}
+#pa13{
+    width:150px;
+    margin-left: 510px;
+    margin-top: -480px;
+
+}
+#pa14{
+    margin-left: 511px;
+    width: 80px;
+}
+footer{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    margin-top: 250px;
+    color: brown;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+footer .company{
+    margin-top:10px;
+    margin-left: -10px;
+    color: gray;
+}
+footer ul li{
+    list-style: none;
+
+}
+h2{
+    margin-left: 250px;
+    margin-top: -140px;
+    width: 100px;
+    font-size: 20px;
+    color: brown;
+}
+footer .follow{
+    margin-left: 220px;
+    font-size: 15px;
+    margin-top: -10px;
+}
+footer h3{
+    margin-left: 450px;
+    width: 240px;
+    margin-top: -110px;
+    font-size: 15px;
+    color: brown;
+}
+footer .mail{
+    margin-left: 30px;
+
+}
+}
+@media screen and (max-width:425px){
+    header{
+        width:50px;
+        height:200px ;
+    }
+    header ul{
+        float: left;
+        margin-top: -20px;
+    }
+    header ul li{
+        float: left;
+        margin-left: -100px;
+        
+    }
+    .icon{
+        font-size: 10px;
+    }
+
+    header a{
+        font-size: 12px;
+        float: left;
+        margin-left: 20px;
+        
+    }
+    
+    .home{
+        width: 50px;
+        height: 100px;
+    }
+    .home img{
+        margin-top:300px;
+        margin-left: -20px;
+        margin-top: 50px;
+        overflow: hidden;
+        width: 300px;
+        height:300px;
+    }
+    .logo{
+         margin-left: 80px;
+    }
+    #pa3{
+        font-size: 15px;
+        margin-left: -10px;
+        margin-top:-390px;
+        
+    }
+    #pa4{
+        font-size: 10px;
+        margin-left: 150px;
+        margin-top: -30px;
+        
+        
+    }
+    #pa{
+        font-size: 12px;
+        margin-left: -10px;
+        
+    }
+    #pa1{
+        font-size: 12px;
+        margin-left: -10px;
+        width: 180px;
+        
+    }
+    #pa5{
+        
+        margin-left: 10px;
+        font-size: 20px;
+        margin-top: 400px;
+    
+    
+        
+    }
+ form{
+    margin-left: -5px;
+    margin-top:400px;
+
+ }
+ .form2{
+    margin-left: 170px;
+ }
+  
+ #pa6{
+     width: 200px;
+     height: 200px;
+ } 
+ #pa7{
+    margin-left: 30px;
+    font-size: 12px;
+    width:200px
+ }
+ #pa8{
+    margin-left: 30px;
+    font-size: 12px;
+    width:200px;
+    
+ }
+
+#pa9{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+}   
+#pa10{
+     margin-top: 30px;
+     margin-left: 30px;
+     width: 200px;
+     font-size: 12px;
+} 
+#pa11{
+    margin-left: 30px;
+   width: 200px;
+   font-size: 12px;
+}
+#pa12{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+}
+#pa13{
+    margin-top: 250px;
+    margin-left: 35px;
+    width: 200px;
+    font-size:12px;
+}
+#pa14{
+    margin-left: 35px;
+    width: 200px;
+    font-size: 12px;
+}
+footer{
+    width: 200px;
+    height: 400px;
+}
+footer h1{
+    font-size: 12px;
+    margin-top: 50px;
+} 
+footer a{
+    text-decoration: none;
+    font-size: 9px;
+    margin-left: -30px;
+    margin-top: -40px;
+}
+footer .company{
+    margin-left: -10px;
+}
+footer h2{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-top: -130px;
+}
+footer .follow{
+    margin-left: 100px;
+    font-size: 15px;
+    margin-top: -10px;
+
+}
+ footer h3{
+    margin-top: 40px;
+    margin-left: 5px;
+    font-size: 12px;
+    color:rebeccapurple;
+}
+footer .mail{
+    margin-left: -200px;
+    margin-bottom: -100px;
+    width: 200px;
+}
+
+
+}
+    
+
+}
